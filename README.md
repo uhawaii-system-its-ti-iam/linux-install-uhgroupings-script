@@ -1,1 +1,1 @@
-# lunix-install-uhgroupings-script
+# linux-install-uhgroupings-script
