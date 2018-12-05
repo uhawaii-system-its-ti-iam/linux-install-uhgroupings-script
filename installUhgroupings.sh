@@ -71,8 +71,8 @@ echo installing uh-groupings-ui into ~/workspace/uhgroupings
 echo "================================================================"
 echo
 cd ~/workspace
-git clone https://github.com/uhawaii-system-its-ti-iam/uhgroupings.git
-cd ~/workspace/uhgroupings
+git clone https://github.com/uhawaii-system-its-ti-iam/uh-groupings-ui.git
+cd ~/workspace/uh-groupings-ui
 git pull
 
 
